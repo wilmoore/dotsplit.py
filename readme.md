@@ -11,8 +11,14 @@
 [![Supported Versions](https://img.shields.io/pypi/pyversions/dotsplit.svg)](https://pypi.org/project/dotsplit)
 [![Contributors](https://img.shields.io/github/contributors/wilmoore/dotsplit.svg)](https://github.com/wilmoore/dotsplit.py/graphs/contributors)
 
-```shell
+dotsplit is available on PyPI:
+###### poetry
+```console
 ❯ poetry install dotsplit
+```
+###### pip
+```console
+❯ python -m pip install dotsplit
 ```
 
 ## Testing
