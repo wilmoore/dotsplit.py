@@ -1,6 +1,5 @@
 # dotsplit
 > Transform dot-delimited strings to array of python strings.
-
 ```python
 >>> import dotsplit
 >>> dotsplit('group.0.section.a.seat.3')
@@ -11,7 +10,8 @@
 [![Supported Versions](https://img.shields.io/pypi/pyversions/dotsplit.svg)](https://pypi.org/project/dotsplit)
 [![Contributors](https://img.shields.io/github/contributors/wilmoore/dotsplit.svg)](https://github.com/wilmoore/dotsplit.py/graphs/contributors)
 
-dotsplit is available on PyPI:
+## Installation
+> dotsplit is available on PyPI:
 ###### poetry
 ```console
 ❯ poetry install dotsplit
@@ -23,12 +23,10 @@ dotsplit is available on PyPI:
 
 ## Testing
 > to run the unit test suite, cd to the root directory and run:
-
 ```
 ❯ poetry install
 ❯ poetry run pytest
 ```
 
 ## Licenses
-
 [![GitHub license](https://img.shields.io/github/license/wilmoore/dotsplit.svg)](https://github.com/wilmoore/dotsplit.py/blob/master/license)
