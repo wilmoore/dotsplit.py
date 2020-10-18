@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dotsplit"
-version = "0.0.1"
+version = "0.1.0"
 description = "Transform dot-delimited strings to an array of python strings."
 authors = ["Deyon Samuel Washington <winnersonly@realpolyglot.com>"]
 readme = "readme.md"

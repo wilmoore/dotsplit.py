@@ -2,7 +2,7 @@ from dotsplit import __version__
 from dotsplit import dotsplit
 
 def test_dotsplit_version():
-    assert __version__ == '0.0.1'
+    assert __version__ == '0.1.0'
 
 def test_dotsplit_splits():
     assert dotsplit('group.0.section.a.seat.3') == ['group', '0', 'section', 'a', 'seat', '3'], 'splits dot delimited strings'
