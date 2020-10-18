@@ -4,13 +4,15 @@ version = "0.0.1"
 description = "Transform dot-delimited strings to an array of python strings."
 authors = ["Deyon Samuel Washington <winnersonly@realpolyglot.com>"]
 readme = "readme.md"
-packages = [
+keywords = [
     "array",
     "dot",
     "namespace",
     "split",
     "string"
 ]
+repository = "https://github.com/wilmoore/dotsplit.py"
+homepage = "https://github.com/wilmoore/dotsplit.py"
 
 [tool.poetry.dependencies]
 python = "^3.8"
