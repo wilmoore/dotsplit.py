@@ -8,7 +8,7 @@
 
 [![Downloads](https://pepy.tech/badge/dotsplit/month)](https://pepy.tech/project/dotsplit/month)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/dotsplit.svg)](https://pypi.org/project/dotsplit)
-[![Contributors](https://img.shields.io/github/contributors/wilmoore/dotsplit.svg)](https://github.com/wilmoore/dotsplit.py/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/wilmoore/dotsplit.py.svg)](https://github.com/wilmoore/dotsplit.py/graphs/contributors)
 
 ## Installation
 > dotsplit is available on PyPI:
