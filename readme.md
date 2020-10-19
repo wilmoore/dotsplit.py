@@ -29,4 +29,4 @@
 ```
 
 ## Licenses
-[![GitHub license](https://img.shields.io/github/license/wilmoore/dotsplit.svg)](https://github.com/wilmoore/dotsplit.py/blob/master/license)
+[![GitHub license](https://img.shields.io/github/license/wilmoore/dotsplit.py.svg)](https://github.com/wilmoore/dotsplit.py/blob/master/license)
